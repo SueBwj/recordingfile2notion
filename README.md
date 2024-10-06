@@ -2,7 +2,7 @@
 process recording files with LLM and place them into notion.
 
 ### TODO
-- [ ] identify typos and correct them
+- [x] identify typos and correct them
 - [ ] Topic analysis and keyword extraction
 - [ ] Clustering based on topics
 - [ ] Create a notion page for each cluster
